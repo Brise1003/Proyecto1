@@ -7,9 +7,6 @@ Hoy hablaremos de su historia.
 En camara parece alto
 
 hoy es el ceo de platzi
-<<<<<<< HEAD
 
 Este es el repo1
-=======
 Este es el repo2
->>>>>>> fa4f9bd0e5dfde4acf1b69652ca87a36602e9168
